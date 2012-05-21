@@ -1,8 +1,13 @@
-Nombre del ejemplo: Monkey Banana for PC
-Licencia: GPL 3
-Fecha: Abril 2012
-Autor: Irving Rodríguez
-Email: irving.prog@gmail.com
+Nombre del ejemplo: 
+	Monkey Banana for PC
+Licencia: 
+	GPL 3
+Fecha: 
+	Abril 2012
+Autor: 
+	Irving Rodríguez
+Email: 
+	irving.prog@gmail.com
 
 Introducción:
 
